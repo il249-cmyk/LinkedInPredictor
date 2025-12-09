@@ -3,6 +3,7 @@
 #seaborn==0.13.2
 #matplotlib==3.8.4
 #scikit-learn==1.5.1
-streamlit==1.39.0
+streamlit
 
 #altair==5.3.0
+
